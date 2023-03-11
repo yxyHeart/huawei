@@ -5,7 +5,7 @@ import math
 import json
 import numpy as np
 
-
+#haha
 def read_util_ok():
     while input() != "OK":
         pass
